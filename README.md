@@ -11,7 +11,9 @@
 ### Glad to see you here!  
 I'm an amateur developer who specialises in python and Linux. Especially in OOP and creating complex functions in python.
 
-I have been working on a python game using pygame this past year, and it has been quite a challenge but I have created quite a complex, little game which you can check out soon!  
+One of previous projects has been working on an intricate PyGame game which will be released soon.
+
+Currently I am working on a website using Vue3 and Nuxt3.
   
 
 <br/>  
@@ -23,7 +25,7 @@ I have been working on a python game using pygame this past year, and it has bee
 - 🔭 I’m currently working on a python game  
   
 
-- 🌱 I’m currently learning Linux and Python  
+- 🌱 I’m currently learning Vue and Nuxt  
   
 
 - ❓ Ask me about anything related to Python and Pygame  
@@ -48,8 +50,10 @@ I have been working on a python game using pygame this past year, and it has bee
 
 ### **Front end**:
 <div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="HTML5" height="25" href= />
-<img style="margin: 10px" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" height="25" />
+<img style="margin: 10px" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" height="25" />
+<img style="margin: 10px" src="https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white&style=for-the-badge" alt="Nuxt" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" alt="Vue" height="25" />  
 </div>
 
 
