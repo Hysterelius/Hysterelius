@@ -1,4 +1,4 @@
-## Hey 👋, I'm Hystersis!  
+## Hey 👋, I'm Hysterelius!  
   
 
 <a href="https://github.com/hystersis" target="_blank">
