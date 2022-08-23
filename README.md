@@ -94,11 +94,11 @@ Currently I am working on a website using Vue3 and Nuxt3.
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hystersis&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hysterelius&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hystersis&hide_border=true&layout=compact" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hysterelius&hide_border=true&layout=compact" align="center" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -107,7 +107,7 @@ Currently I am working on a website using Vue3 and Nuxt3.
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=hystersis&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=hysterelius&&style=flat-square)  
   
 
 <br/>  
