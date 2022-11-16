@@ -98,7 +98,7 @@ Currently I am working on a website using Vue3 and Nuxt3.
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hysterelius&hide_border=true&layout=compact" align="center" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hysterelius&hide_border=true" align="center" style="width: 100%" />
 
 </td></tr></table>  
 
