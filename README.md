@@ -25,7 +25,7 @@ Currently I am learning all about rust.
 - 🔭 I’m currently working on a website.
   
 
-- 🌱 I’m currently learning Rust .  
+- 🌱 I’m currently learning Rust 🦀.  
   
 
 - ❓ Ask me about anything related to Python and Pygame  
