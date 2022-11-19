@@ -9,11 +9,11 @@
 
 
 ### Glad to see you here!  
-I'm an amateur developer who specialises in python and Linux. Especially in OOP and creating complex functions in python.
+I'm an amateur developer who specialises in Python. Especially in creating small games.
 
-One of previous projects has been working on an intricate PyGame game which will be released soon.
+[Sushi Dodger](https://github.com/Hysterelius/Sushi_Dodger) is my latest Python game created using [PyGame](https://github.com/pygame/pygame) and required [whole systems](https://github.com/Hysterelius/Pygame-Event-Manager) to be built from the ground up.
 
-Currently I am working on a website using Vue3 and Nuxt3.
+Currently I am learning all about rust.
   
 
 <br/>  
@@ -22,10 +22,10 @@ Currently I am working on a website using Vue3 and Nuxt3.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a python game  
+- 🔭 I’m currently working on a website.
   
 
-- 🌱 I’m currently learning Vue and Nuxt  
+- 🌱 I’m currently learning Rust .  
   
 
 - ❓ Ask me about anything related to Python and Pygame  
