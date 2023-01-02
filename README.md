@@ -14,7 +14,12 @@ I'm an amateur developer who specialises in Python. Especially in creating small
 [Sushi Dodger](https://github.com/Hysterelius/Sushi_Dodger) is my latest Python game created using [PyGame](https://github.com/pygame/pygame) and required [whole systems](https://github.com/Hysterelius/Pygame-Event-Manager) to be built from the ground up.
 
 Currently I am learning all about rust.
-  
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nuxt,vue,lua,python,rust,bash,linux,git" />
+  </a>
+</p>
 
 <br/>  
 
@@ -44,38 +49,6 @@ Currently I am learning all about rust.
 </td></tr></table>  
 
 <br/>  
-
-
-## Languages and Tools
-
-### **Front end**:
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/-css-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-Nuxt-00DC82?logo=nuxt.js&logoColor=white&style=for-the-badge" alt="Nuxt" height="25" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/-Vue-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" alt="Vue" height="25" />  
-</div>
-
-
-### **Back end**:
-
-<div align="center"> 
-<img style="margin: 10px" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript Icon" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" alt="Lua Icon" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" alt="Nginx" height="25" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" height="25" />   
-</div>
-
-
-
-### **DevOps**:
-
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/-bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" height="25" /> 
-<img style="margin: 10px" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?logo=raspberry-pi&logoColor=white&style=for-the-badge" alt="Raspberry Pi" height="25" />  
-</div>
 
 
 
