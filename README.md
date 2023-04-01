@@ -52,16 +52,6 @@ Currently I am learning all about rust.
 
 
 
-### **Creative tools**:
-<div align="center">  
-<img style="margin: 10px" src="https://img.shields.io/badge/-after%20effects-9999FF?logo=adobe-after-effects&logoColor=white&style=for-the-badge" alt="After Effects" height="25" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge" alt="Photoshop" height="25" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/-premiere%20pro-9999FF?logo=adobe-Premiere-pro&logoColor=white&style=for-the-badge" alt="Premiere Pro" height="25" />  
-<img style="margin: 10px" src="https://img.shields.io/badge/-wordpress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="WordPress" height="25" />  
-</div>
-
-<br/>  
-
 
 ## Github Stats
 
