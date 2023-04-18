@@ -17,7 +17,7 @@ Currently I am learning all about rust.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nuxt,vue,lua,python,rust,bash,linux,git" />
+    <img src="https://skillicons.dev/icons?i=js,vue,lua,python,rust,git" />
   </a>
 </p>
 
