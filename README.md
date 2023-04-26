@@ -13,7 +13,7 @@ I'm an amateur developer who specialises in Python. Especially in creating small
 
 [Sushi Dodger](https://github.com/Hysterelius/Sushi_Dodger) is my latest Python game created using [PyGame](https://github.com/pygame/pygame) and required [whole systems](https://github.com/Hysterelius/Pygame-Event-Manager) to be built from the ground up.
 
-Currently I am learning all about rust.
+Currently I am learning all about Rust.
 
 <p align="center">
   <a href="https://skillicons.dev">
