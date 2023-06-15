@@ -25,9 +25,9 @@ Currently I am learning all about Rust.
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on a website.
+
+- 🔭 I’m currently working on [trade_vision](https://github.com/Hysterelius/trade_vision).
   
 
 - 🌱 I’m currently learning Rust 🦀.  
@@ -39,16 +39,6 @@ Currently I am learning all about Rust.
 - ⚡ Fun fact: I wrote my first program in [Lua](https://www.lua.org/)  
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 
