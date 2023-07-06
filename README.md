@@ -16,9 +16,7 @@ I'm an amateur developer who specialises in Python. Especially in creating small
 Currently I am learning all about Rust.
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,vue,lua,python,rust,git" />
-  </a>
 </p>
 
 <br/>  
