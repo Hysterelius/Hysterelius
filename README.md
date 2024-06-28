@@ -1,4 +1,4 @@
-## Hey 👋, I'm Hysterelius!  
+## G'Day 👋, I'm Hysterelius!  
   
 
 <a href="https://github.com/hystersis" target="_blank">
@@ -13,7 +13,7 @@ I'm an amateur developer who specialises in Python. Especially in creating small
 
 [Sushi Dodger](https://github.com/Hysterelius/Sushi_Dodger) is my latest Python game created using [PyGame](https://github.com/pygame/pygame) and required [whole systems](https://github.com/Hysterelius/Pygame-Event-Manager) to be built from the ground up.
 
-Currently I am learning all about Rust.
+Currently I am working a variety of web projects 🌐.
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,vue,lua,python,rust,git" />
