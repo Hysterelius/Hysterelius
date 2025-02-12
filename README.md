@@ -16,7 +16,7 @@ I'm an amateur developer who specialises in Python. Especially in creating small
 Currently I am working a variety of web projects 🌐.
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,vue,lua,python,rust,git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ts,vue,nuxt,rust,lua,python,git&theme=dark" />
 </p>
 
 <br/>  
